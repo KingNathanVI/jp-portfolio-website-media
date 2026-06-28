@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-label="Wüste und Felsbogen">
+  <defs>
+    <linearGradient id="sky4" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#324c76"/>
+      <stop offset=".55" stop-color="#d89a63"/>
+      <stop offset="1" stop-color="#633d2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="820" fill="url(#sky4)"/>
+  <circle cx="870" cy="210" r="88" fill="#ffe0a1" opacity=".78"/>
+  <path d="M0 595 C210 535 360 650 575 590 C820 520 950 610 1200 545 L1200 820 0 820Z" fill="#93553d"/>
+  <path d="M230 700 C245 470 350 330 555 330 C780 330 860 505 880 700 L755 700 C745 520 680 445 555 445 C430 445 360 520 350 700Z" fill="#5e332b"/>
+  <path d="M308 700 C318 540 398 390 555 390 C725 390 805 545 812 700 L742 700 C730 565 674 470 555 470 C440 470 384 565 372 700Z" fill="#c9794d"/>
+  <path d="M0 735 C210 700 370 775 590 735 C790 700 955 760 1200 715" fill="none" stroke="#f4c285" stroke-width="12" opacity=".32"/>
+</svg>

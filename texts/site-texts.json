@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "siteTitle": "Portfolio V1.38",
+    "categoryPageTitleSuffix": "Portfolio V1.38",
+    "version": "V1.38"
+  },
+  "navigation": {
+    "brand": "JP Portfolio",
+    "quickNavLabel": "Kategorien",
+    "topbarLabel": "Schnelle Navigation",
+    "experienceLabel": "Portfolio-Ausstellung",
+    "sceneLabel": "3D Kategorien",
+    "progressLabel": "Kategorienfortschritt",
+    "footerLabel": "Weitere Informationen",
+    "infoLabel": "Informationen",
+    "worksLabel": "Arbeiten",
+    "closeGalleryLabel": "Zur Ausstellung",
+    "closeModalLabel": "Fenster schliessen",
+    "fullscreenLabel": "Bild vergrÃ¶ÃŸern",
+    "closeFullscreenLabel": "Vollbild schliessen",
+    "aboutMeLabel": "Ãœber Mich",
+    "closeAboutMeLabel": "Ãœber Mich schliessen",
+    "mobileMenuOpenLabel": "Menu oeffnen",
+    "mobileMenuCloseLabel": "Menu schliessen",
+    "versionLabel": "Versionskennzeichnung"
+  },
+  "categories": [
+    {
+      "title": "Kategorie 01",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet."
+      ],
+      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+    },
+    {
+      "title": "Kategorie 02",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet."
+      ],
+      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+    },
+    {
+      "title": "Kategorie 03",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet."
+      ],
+      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+    },
+    {
+      "title": "Kategorie 04",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet."
+      ],
+      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+    },
+    {
+      "title": "Kategorie 05",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet."
+      ],
+      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+    },
+    {
+      "title": "Kategorie 06",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet."
+      ],
+      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+    }
+  ],
+  "footer": {
+    "imprint": "Impressum",
+    "copyright": "Urheberrecht",
+    "privacy": "Datenschutz",
+    "contact": "Kontakt",
+    "about": "Ãœber diese Seite"
+  },
+  "info": {
+    "imprint": {
+      "title": "Impressum",
+      "lines": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet.",
+        "Duis sagittis ipsum praesent mauris fusce nec tellus sed augue.",
+        "Maecenas mattis sed convallis tristique sem proin ut ligula."
+      ]
+    },
+    "privacy": {
+      "title": "Datenschutz",
+      "lines": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet.",
+        "Duis sagittis ipsum praesent mauris fusce nec tellus sed augue.",
+        "Maecenas mattis sed convallis tristique sem proin ut ligula."
+      ]
+    },
+    "about": {
+      "title": "Ãœber diese Seite",
+      "lines": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet.",
+        "Duis sagittis ipsum praesent mauris fusce nec tellus sed augue.",
+        "Maecenas mattis sed convallis tristique sem proin ut ligula."
+      ]
+    },
+    "copyright": {
+      "title": "Urheberrecht",
+      "lines": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet.",
+        "Duis sagittis ipsum praesent mauris fusce nec tellus sed augue.",
+        "Maecenas mattis sed convallis tristique sem proin ut ligula."
+      ]
+    },
+    "contact": {
+      "title": "Kontakt",
+      "lines": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Integer nec odio praesent libero sed cursus ante dapibus diam.",
+        "Sed nisi nulla quis sem at nibh elementum imperdiet.",
+        "Duis sagittis ipsum praesent mauris fusce nec tellus sed augue.",
+        "Maecenas mattis sed convallis tristique sem proin ut ligula."
+      ]
+    }
+  },
+  "work": {
+    "imageAlt": "TemporÃ¤re Naturaufnahme",
+    "selectedAlt": "AusgewÃ¤hlte Kategorie",
+    "workLabelPrefix": "Arbeit",
+    "categoryIntroEyebrow": "AusgewÃ¤hlte Arbeiten",
+    "categoryIntroLead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio praesent libero sed cursus ante dapibus diam.",
+    "categoryPageStackLabel": "Arbeiten dieser Kategorie"
+  },
+  "aboutMe": {
+    "label": "Ãœber Mich",
+    "name": "Jonathan Paikert",
+    "imageAlt": "Kein Profilbild",
+    "traits": [
+      "Eigenschaft 01",
+      "Eigenschaft 02",
+      "Eigenschaft 03",
+      "Eigenschaft 04",
+      "Eigenschaft 05",
+      "Eigenschaft 06"
+    ]
+  },
+  "infoOrder": [
+    "imprint",
+    "copyright",
+    "privacy",
+    "contact",
+    "about"
+  ]
+}

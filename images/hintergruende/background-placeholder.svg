@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Dunkler Hintergrund">
+  <rect width="1600" height="900" fill="#000"/>
+  <path d="M0 450H1600" stroke="#ffffff" stroke-opacity=".08"/>
+  <path d="M800 0V900" stroke="#ffffff" stroke-opacity=".05"/>
+</svg>

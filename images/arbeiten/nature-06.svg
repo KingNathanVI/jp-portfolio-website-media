@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-label="Regenwald Wasserfall">
+  <defs>
+    <linearGradient id="jungle" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#113a31"/>
+      <stop offset=".5" stop-color="#1f6a4c"/>
+      <stop offset="1" stop-color="#0b1d18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="820" fill="url(#jungle)"/>
+  <circle cx="570" cy="180" r="130" fill="#f6f2b6" opacity=".22"/>
+  <g opacity=".58">
+    <path d="M40 515 C155 300 245 255 360 150 C305 360 250 430 210 650Z" fill="#0e2e20"/>
+    <path d="M1000 680 C960 390 910 270 800 110 C985 230 1080 365 1175 620Z" fill="#0c281e"/>
+    <path d="M620 700 C735 450 800 330 940 250 C855 455 790 585 760 820Z" fill="#123b27"/>
+  </g>
+  <path d="M485 265 C540 250 592 250 650 265 L620 820 440 820Z" fill="#cff5f0" opacity=".88"/>
+  <path d="M520 275 C555 308 565 365 545 430 C520 520 560 620 505 820 L440 820Z" fill="#8fd8d4" opacity=".42"/>
+  <path d="M0 650 C210 600 370 690 560 650 C740 612 960 700 1200 630 L1200 820 0 820Z" fill="#0d261d"/>
+  <path d="M365 715 C470 682 565 738 680 705 C780 675 875 720 970 690" fill="none" stroke="#d5fff6" stroke-width="15" opacity=".34"/>
+</svg>

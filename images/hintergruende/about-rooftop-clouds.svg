@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-label="Hochhausdach in Wolken">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#aab9c6"/>
+      <stop offset=".42" stop-color="#6d7d89"/>
+      <stop offset="1" stop-color="#171a1b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="36%" r="55%">
+      <stop offset="0" stop-color="#fff3de" stop-opacity=".42"/>
+      <stop offset=".42" stop-color="#cbd5d8" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#050707" stop-opacity=".88"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+  <rect width="1920" height="1080" fill="url(#glow)"/>
+  <g filter="url(#soft)" opacity=".74">
+    <ellipse cx="310" cy="360" rx="370" ry="95" fill="#dfe8e9"/>
+    <ellipse cx="760" cy="315" rx="420" ry="110" fill="#d8e1e3"/>
+    <ellipse cx="1230" cy="350" rx="390" ry="100" fill="#e8eeee"/>
+    <ellipse cx="1650" cy="315" rx="350" ry="90" fill="#d5dde0"/>
+    <ellipse cx="520" cy="780" rx="520" ry="120" fill="#c5ced0"/>
+    <ellipse cx="1410" cy="770" rx="560" ry="130" fill="#cbd4d6"/>
+  </g>
+  <g opacity=".78">
+    <path d="M590 660h740l150 270H440z" fill="#1e2222"/>
+    <path d="M660 620h600l70 40H590z" fill="#343a39"/>
+    <path d="M710 665h500v44H710z" fill="#0f1212"/>
+    <path d="M500 930h920v34H500z" fill="#080a0a"/>
+    <path d="M790 470h74v150h-74zM1058 470h74v150h-74z" fill="#161a1a"/>
+    <path d="M720 615h480" stroke="#7f8989" stroke-opacity=".5" stroke-width="4"/>
+  </g>
+</svg>

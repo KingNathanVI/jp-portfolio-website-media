@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteTitle": "Portfolio V1.55",
-    "categoryPageTitleSuffix": "Portfolio V1.55",
-    "version": "V1.55 - Jonathan Paikert - 953388 - SoSe26"
+    "siteTitle": "Portfolio V1.57",
+    "categoryPageTitleSuffix": "Portfolio V1.57",
+    "version": "V1.57 - Jonathan Paikert - 953388 - SoSe26"
   },
   "navigation": {
     "brand": "JP Portfolio",
@@ -86,10 +86,10 @@
       "title": "Impressum",
       "lines": [
         "JP Portfolio - Webseite",
-        "Eleonorenstraße 98,",
-        "55252 Mainz-Kastel",
+        "Holzstraße 36,",
+        "55116 Mainz",
         "Deutschland",
-        "E-Mail-Adresse: jonathan.paikert@web.de",
+        "E-Mail-Adresse: eine.mail-adresse@web.de",
         "JP Portfolio ist eine Webseite zur Präsentierung der Arbeiten von Jonathan Paikert.",
         "Die Inhalte dieser Webseite sind urheberrechtlich geschützt und dürfen ohne ausdrückliche Genehmigung nicht vervielfältigt, verbreitet oder anderweitig genutzt werden.",
         "Die Nutzung dieser Webseite erfolgt auf eigene Verantwortung. Der Betreiber übernimmt keine Haftung für Schäden, die durch die Nutzung der Webseite entstehen.",
@@ -128,7 +128,7 @@
     "contact": {
       "title": "Kontakt",
       "lines": [
-        "E-Mail-Adresse: jonathan.paikert@web.de",
+        "E-Mail-Adresse: eine.mail-adresse@web.de",
         "Instagram: @jonathan331122"
       ]
     }

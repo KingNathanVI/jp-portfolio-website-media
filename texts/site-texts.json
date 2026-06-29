@@ -29,25 +29,22 @@
       "title": "Blumen",
       "description": [
         "Jegliche Art von Blumen sind für mich die Models der Natur.",
-        "Seitdem ich eine Kamera besitze, konnte ich kaum an",
-        "solch einer Schönheit vorbeigehen, ohne sie zu fotografieren."
+        "Seitdem ich eine Kamera besitze, konnte ich kaum an solch einer Schönheit vorbeigehen, ohne sie zu fotografieren."
       ],
       "workDescription": "Dies ist nur ein kleiner Ausschnitt aus meiner stets wachsenden Sammlung an Blumenfotografien."
     },
     {
       "title": "Animation",
       "description": [
-        "Nicht nur die Animation, sondern auch das Sounddesign spielen eine",
-        "große Rolle beim Geschichten-Erzählen. Obgleich es viel Zeit",
-        "in Anspurch nimmt, ist das Animieren für mich fast schon meditativer Natur."
+        "Nicht nur die Animation, sondern auch das Sounddesign spielen eine große Rolle beim Geschichten-Erzählen.",
+        "Obgleich es viel Zeit in Anspurch nimmt, ist das Animieren für mich fast schon meditativer Natur."
       ],
       "workDescription": "Dies sind einer meiner ersten Animationen jemals, die im Kurs Animationsgrundlagen an der Hochschule Mainz entstanden sind."
     },
     {
       "title": "Schnappschüsse",
       "description": [
-        "Manchmal gelingt es einem ohne weiteres schlichtweg die Kamera draufzuhalten",
-        "und siehe da, ein Schnappschuss ist entstanden.",
+        "Manchmal gelingt es einem ohne weiteres schlichtweg die Kamera draufzuhalten und siehe da, ein Schnappschuss ist entstanden.",
         "Oft aus glücklichem Zufall, manchmal durch präzises Tmiming."
       ],
       "workDescription": "Immer wieder halte ich im Alltag an, um einen Moment festzuhalten, der mir besonders ins Auge fällt."
@@ -56,8 +53,7 @@
       "title": "Kurzfilm",
       "description": [
         "theURGE - Ein Kurzfilm über den unwiderstehlichen Drang eines jungen Taschendiebes.",
-        "Entstanden ist er im Kurs Filmgrrundlagen an der Hochschule Mainz in Zusammenarbeit",
-        "mit Ben Petri & Benjamin Mathes, während wir erste Erfahrhungen am Set machten."
+        "Entstanden ist er im Kurs Filmgrrundlagen an der Hochschule Mainz in Zusammenarbeit mit Ben Petri & Benjamin Mathes, während wir erste Erfahrhungen am Set machten."
       ],
       "workDescription": "'In der Kürze liegt die Würze.' wird oft gesagt. Nicht jedoch bei der Planung, dem Dreh und der Postproduktion eines Kurzfilms."
     },
@@ -73,8 +69,7 @@
     {
       "title": "Gestaltung",
       "description": [
-        "Bildbearbeitung, Layoutgestaltung, Typografie und Farbwahl sind seit einem Jahr",
-        "Bestandteil meiner Herangehensweise an jegliche digital verarbeiteten Arbeiten.",
+        "Bildbearbeitung, Layoutgestaltung, Typografie und Farbwahl sind seit einem Jahr Bestandteil meiner Herangehensweise an jegliche digital verarbeiteten Arbeiten.",
         "Eine Auge für gutes Design, hat mich der Kurs Gestaltungssprache an der Hochschule Mainz gelehrt."
       ],
       "workDescription": "Meist Photoshop verzerrt immer wieder meine Zeitwahrnehmung und lässt mich Stunden überspringen, während ich mich in der Gestaltung verliere."
@@ -131,14 +126,12 @@
     "copyright": {
       "title": "Urheberrecht",
       "lines": [
-        "Die Medien auf dieser Webseite sind urheberrechtlich geschützt und dürfen ohne ausdrückliche Genehmigung nicht vervielfältigt,",
-        "verbreitet oder anderweitig genutzt werden."
+        "Die Medien auf dieser Webseite sind urheberrechtlich geschützt und dürfen ohne ausdrückliche Genehmigung nicht vervielfältigt, verbreitet oder anderweitig genutzt werden."
       ]
     },
     "contact": {
       "title": "Kontakt",
       "lines": [
-        "",
         "E-Mail-Adresse: jonathan.paikert@web.de"
       ]
     }

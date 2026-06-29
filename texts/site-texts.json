@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteTitle": "Portfolio V1.38",
-    "categoryPageTitleSuffix": "Portfolio V1.38",
-    "version": "V1.38"
+    "siteTitle": "Portfolio V1.41",
+    "categoryPageTitleSuffix": "Portfolio V1.41",
+    "version": "V1.41"
   },
   "navigation": {
     "brand": "JP Portfolio",
@@ -16,68 +16,68 @@
     "worksLabel": "Arbeiten",
     "closeGalleryLabel": "Zur Ausstellung",
     "closeModalLabel": "Fenster schliessen",
-    "fullscreenLabel": "Bild vergrÃ¶ÃŸern",
+    "fullscreenLabel": "Bild vergrößern",
     "closeFullscreenLabel": "Vollbild schliessen",
-    "aboutMeLabel": "Ãœber Mich",
-    "closeAboutMeLabel": "Ãœber Mich schliessen",
-    "mobileMenuOpenLabel": "Menu oeffnen",
-    "mobileMenuCloseLabel": "Menu schliessen",
+    "aboutMeLabel": "Über Mich",
+    "closeAboutMeLabel": "Über Mich schliessen",
+    "mobileMenuOpenLabel": "Menü öffnen",
+    "mobileMenuCloseLabel": "Menü schliessen",
     "versionLabel": "Versionskennzeichnung"
   },
   "categories": [
     {
-      "title": "Kategorie 01",
+      "title": "Blumen",
       "description": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
         "Sed nisi nulla quis sem at nibh elementum imperdiet."
       ],
-      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+      "workDescription": "Dies ist ein Platzhaltertext für eine spätere Beschreibung dieser Kategorie."
     },
     {
-      "title": "Kategorie 02",
+      "title": "Animation",
       "description": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
         "Sed nisi nulla quis sem at nibh elementum imperdiet."
       ],
-      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+      "workDescription": "Dies ist ein Platzhaltertext für eine spätere Beschreibung dieser Kategorie."
     },
     {
-      "title": "Kategorie 03",
+      "title": "Schnappschüsse",
       "description": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
         "Sed nisi nulla quis sem at nibh elementum imperdiet."
       ],
-      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+      "workDescription": "Dies ist ein Platzhaltertext für eine spätere Beschreibung dieser Kategorie."
     },
     {
-      "title": "Kategorie 04",
+      "title": "Kurzfilm",
       "description": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
         "Sed nisi nulla quis sem at nibh elementum imperdiet."
       ],
-      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+      "workDescription": "Dies ist ein Platzhaltertext für eine spätere Beschreibung dieser Kategorie."
     },
     {
-      "title": "Kategorie 05",
+      "title": "Zeichnungen",
       "description": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
         "Sed nisi nulla quis sem at nibh elementum imperdiet."
       ],
-      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+      "workDescription": "Dies ist ein Platzhaltertext für eine spätere Beschreibung dieser Kategorie."
     },
     {
-      "title": "Kategorie 06",
+      "title": "Gestaltung",
       "description": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
         "Sed nisi nulla quis sem at nibh elementum imperdiet."
       ],
-      "workDescription": "Dies ist ein Platzhaltertext fÃ¼r eine spÃ¤tere Beschreibung dieser Kategorie."
+      "workDescription": "Dies ist ein Platzhaltertext für eine spätere Beschreibung dieser Kategorie."
     }
   ],
   "footer": {
@@ -85,7 +85,7 @@
     "copyright": "Urheberrecht",
     "privacy": "Datenschutz",
     "contact": "Kontakt",
-    "about": "Ãœber diese Seite"
+    "about": "Über diese Seite"
   },
   "info": {
     "imprint": {
@@ -109,7 +109,7 @@
       ]
     },
     "about": {
-      "title": "Ãœber diese Seite",
+      "title": "Über diese Seite",
       "lines": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "Integer nec odio praesent libero sed cursus ante dapibus diam.",
@@ -140,15 +140,15 @@
     }
   },
   "work": {
-    "imageAlt": "TemporÃ¤re Naturaufnahme",
-    "selectedAlt": "AusgewÃ¤hlte Kategorie",
+    "imageAlt": "Temporäre Naturaufnahme",
+    "selectedAlt": "Ausgewählte Kategorie",
     "workLabelPrefix": "Arbeit",
-    "categoryIntroEyebrow": "AusgewÃ¤hlte Arbeiten",
+    "categoryIntroEyebrow": "Ausgewählte Arbeiten",
     "categoryIntroLead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio praesent libero sed cursus ante dapibus diam.",
     "categoryPageStackLabel": "Arbeiten dieser Kategorie"
   },
   "aboutMe": {
-    "label": "Ãœber Mich",
+    "label": "Über Mich",
     "name": "Jonathan Paikert",
     "imageAlt": "Kein Profilbild",
     "traits": [

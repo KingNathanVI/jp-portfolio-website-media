@@ -124,11 +124,8 @@
     "about": {
       "title": "Über diese Seite",
       "lines": [
-        "Diese Webseite ist im Kurs Informatikgrundlagen an der Hochschule Mainz entstanden",
-        "und dient zur Präsentierung des Portfolios von Jonathan Paikert.",
-        "",
-        "Die Webseite wurde mit Codex erstellt und greift für die Inhalte auf",
-        "ein öffentliches GitHub-Repository von Jonathan Paikert zu."
+        "Diese Webseite ist im Kurs Informatikgrundlagen an der Hochschule Mainz entstanden und dient zur Präsentierung des Portfolios von Jonathan Paikert.",
+        "Die Webseite wurde mit Codex erstellt und greift für die Inhalte auf ein öffentliches GitHub-Repository von Jonathan Paikert zu."
       ]
     },
     "copyright": {
@@ -160,7 +157,7 @@
     "imageAlt": "Kein Profilbild",
     "traits": [
       "Begeisterter Jazzhörer",
-      "Liebt es inne zu halten und die Welt \bmit der Kamera einzufangen",
+      "Liebt es die Welt mit der Kamera einzufangen",
       "Lieblingsserie: 'Peaky Blinders' (2013-2022)",
       "Ist hin und wieder handwerklich aktiv",
       "Spielt akustische Gitarre",

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteTitle": "Portfolio V1.51",
-    "categoryPageTitleSuffix": "Portfolio V1.51",
-    "version": "V1.51 - Jonathan Paikert - 953388 - SoSe26"
+    "siteTitle": "Portfolio V1.55",
+    "categoryPageTitleSuffix": "Portfolio V1.55",
+    "version": "V1.55 - Jonathan Paikert - 953388 - SoSe26"
   },
   "navigation": {
     "brand": "JP Portfolio",
@@ -152,6 +152,14 @@
       "Ist hin und wieder handwerklich aktiv",
       "Spielt akustische Gitarre",
       "Lieblingsfilm: 'Ich Einfach Unverbesserlich' (2010)"
+    ],
+    "traitSymbols": [
+      "📷",
+      "🎷",
+      "🎬",
+      "🛠",
+      "🎸",
+      "📽"
     ]
   },
   "infoOrder": [
@@ -160,5 +168,10 @@
     "privacy",
     "contact",
     "about"
-  ]
+  ],
+  "loader": {
+    "firstName": "JONATHAN",
+    "lastName": "PAIKERT",
+    "portfolioLabel": "Portfolio"
+  }
 }

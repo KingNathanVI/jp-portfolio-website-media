@@ -9,12 +9,12 @@
       "arbeit-06": { "image": "images/arbeiten/kategorie-01/arbeit-06.webp" }
     },
     "kategorie-02": {
-      "arbeit-01": { "video": "videos/arbeiten/kategorie-02/arbeit-01.mp4" },
-      "arbeit-02": { "video": "videos/arbeiten/kategorie-02/arbeit-02.mp4" },
-      "arbeit-03": { "video": "videos/arbeiten/kategorie-02/arbeit-03.mp4" },
-      "arbeit-04": { "video": "videos/arbeiten/kategorie-02/arbeit-04.mp4" },
-      "arbeit-05": { "video": "videos/arbeiten/kategorie-02/arbeit-05.mp4" },
-      "arbeit-06": { "video": "videos/arbeiten/kategorie-02/arbeit-06.mp4" }
+      "arbeit-01": { "poster": "images/arbeiten/kategorie-02/arbeit-01.webp", "video": "videos/arbeiten/kategorie-02/arbeit-01.mp4" },
+      "arbeit-02": { "poster": "images/arbeiten/kategorie-02/arbeit-02.webp", "video": "videos/arbeiten/kategorie-02/arbeit-02.mp4" },
+      "arbeit-03": { "poster": "images/arbeiten/kategorie-02/arbeit-03.webp", "video": "videos/arbeiten/kategorie-02/arbeit-03.mp4" },
+      "arbeit-04": { "poster": "images/arbeiten/kategorie-02/arbeit-04.webp", "video": "videos/arbeiten/kategorie-02/arbeit-04.mp4" },
+      "arbeit-05": { "poster": "images/arbeiten/kategorie-02/arbeit-05.webp", "video": "videos/arbeiten/kategorie-02/arbeit-05.mp4" },
+      "arbeit-06": { "poster": "images/arbeiten/kategorie-02/arbeit-06.webp", "video": "videos/arbeiten/kategorie-02/arbeit-06.mp4" }
     },
     "kategorie-03": {
       "arbeit-01": { "image": "images/arbeiten/kategorie-03/arbeit-01.webp" },
@@ -25,7 +25,7 @@
       "arbeit-06": { "image": "images/arbeiten/kategorie-03/arbeit-06.webp" }
     },
     "kategorie-04": {
-      "arbeit-01": { "video": "videos/arbeiten/kategorie-04/arbeit-01.mp4" },
+      "arbeit-01": { "poster": "images/arbeiten/kategorie-04/arbeit-01.webp", "video": "videos/arbeiten/kategorie-04/arbeit-01.mp4" },
       "arbeit-02": { "image": "images/arbeiten/kategorie-04/arbeit-02.webp" },
       "arbeit-03": { "image": "images/arbeiten/kategorie-04/arbeit-03.webp" },
       "arbeit-04": { "image": "images/arbeiten/kategorie-04/arbeit-04.webp" },

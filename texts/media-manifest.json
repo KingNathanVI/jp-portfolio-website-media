@@ -1,0 +1,52 @@
+{
+  "works": {
+    "kategorie-01": {
+      "arbeit-01": { "image": "images/arbeiten/kategorie-01/arbeit-01.webp" },
+      "arbeit-02": { "image": "images/arbeiten/kategorie-01/arbeit-02.webp" },
+      "arbeit-03": { "image": "images/arbeiten/kategorie-01/arbeit-03.webp" },
+      "arbeit-04": { "image": "images/arbeiten/kategorie-01/arbeit-04.webp" },
+      "arbeit-05": { "image": "images/arbeiten/kategorie-01/arbeit-05.webp" },
+      "arbeit-06": { "image": "images/arbeiten/kategorie-01/arbeit-06.webp" }
+    },
+    "kategorie-02": {
+      "arbeit-01": { "image": "images/arbeiten/kategorie-02/arbeit-01.webp" },
+      "arbeit-02": { "image": "images/arbeiten/kategorie-02/arbeit-02.webp" },
+      "arbeit-03": { "image": "images/arbeiten/kategorie-02/arbeit-03.webp" },
+      "arbeit-04": { "image": "images/arbeiten/kategorie-02/arbeit-04.webp" },
+      "arbeit-05": { "image": "images/arbeiten/kategorie-02/arbeit-05.webp" },
+      "arbeit-06": { "image": "images/arbeiten/kategorie-02/arbeit-06.webp" }
+    },
+    "kategorie-03": {
+      "arbeit-01": { "image": "images/arbeiten/kategorie-03/arbeit-01.webp" },
+      "arbeit-02": { "image": "images/arbeiten/kategorie-03/arbeit-02.webp" },
+      "arbeit-03": { "image": "images/arbeiten/kategorie-03/arbeit-03.webp" },
+      "arbeit-04": { "image": "images/arbeiten/kategorie-03/arbeit-04.webp" },
+      "arbeit-05": { "image": "images/arbeiten/kategorie-03/arbeit-05.webp" },
+      "arbeit-06": { "image": "images/arbeiten/kategorie-03/arbeit-06.webp" }
+    },
+    "kategorie-04": {
+      "arbeit-01": { "image": "images/arbeiten/kategorie-04/arbeit-01.webp" },
+      "arbeit-02": { "image": "images/arbeiten/kategorie-04/arbeit-02.webp" },
+      "arbeit-03": { "image": "images/arbeiten/kategorie-04/arbeit-03.webp" },
+      "arbeit-04": { "image": "images/arbeiten/kategorie-04/arbeit-04.webp" },
+      "arbeit-05": { "image": "images/arbeiten/kategorie-04/arbeit-05.webp" },
+      "arbeit-06": { "image": "images/arbeiten/kategorie-04/arbeit-06.webp" }
+    },
+    "kategorie-05": {
+      "arbeit-01": { "image": "images/arbeiten/kategorie-05/arbeit-01.webp" },
+      "arbeit-02": { "image": "images/arbeiten/kategorie-05/arbeit-02.webp" },
+      "arbeit-03": { "image": "images/arbeiten/kategorie-05/arbeit-03.webp" },
+      "arbeit-04": { "image": "images/arbeiten/kategorie-05/arbeit-04.webp" },
+      "arbeit-05": { "image": "images/arbeiten/kategorie-05/arbeit-05.webp" },
+      "arbeit-06": { "image": "images/arbeiten/kategorie-05/arbeit-06.webp" }
+    },
+    "kategorie-06": {
+      "arbeit-01": { "image": "images/arbeiten/kategorie-06/arbeit-01.webp" },
+      "arbeit-02": { "image": "images/arbeiten/kategorie-06/arbeit-02.webp" },
+      "arbeit-03": { "image": "images/arbeiten/kategorie-06/arbeit-03.webp" },
+      "arbeit-04": { "image": "images/arbeiten/kategorie-06/arbeit-04.webp" },
+      "arbeit-05": { "image": "images/arbeiten/kategorie-06/arbeit-05.webp" },
+      "arbeit-06": { "image": "images/arbeiten/kategorie-06/arbeit-06.webp" }
+    }
+  }
+}
